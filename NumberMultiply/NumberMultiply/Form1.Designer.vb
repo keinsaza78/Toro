@@ -33,18 +33,18 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label1.Font = New System.Drawing.Font("Showcard Gothic", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.Location = New System.Drawing.Point(107, 38)
+        Me.Label1.Font = New System.Drawing.Font("TH SarabunPSK", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.Label1.Location = New System.Drawing.Point(138, 29)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(468, 86)
+        Me.Label1.Size = New System.Drawing.Size(367, 100)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "ตารางสูตรคูณ"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'btOk
         '
-        Me.btOk.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.btOk.Location = New System.Drawing.Point(80, 343)
+        Me.btOk.Font = New System.Drawing.Font("TH SarabunPSK", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.btOk.Location = New System.Drawing.Point(167, 262)
         Me.btOk.Name = "btOk"
         Me.btOk.Size = New System.Drawing.Size(120, 57)
         Me.btOk.TabIndex = 1
@@ -54,15 +54,18 @@ Partial Class Form1
         'tbNum
         '
         Me.tbNum.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.tbNum.Location = New System.Drawing.Point(379, 212)
+        Me.tbNum.Font = New System.Drawing.Font("TH SarabunPSK", 28.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.tbNum.Location = New System.Drawing.Point(339, 160)
+        Me.tbNum.Multiline = True
         Me.tbNum.Name = "tbNum"
-        Me.tbNum.Size = New System.Drawing.Size(185, 27)
+        Me.tbNum.Size = New System.Drawing.Size(203, 63)
         Me.tbNum.TabIndex = 2
+        Me.tbNum.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'btClear
         '
-        Me.btClear.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.btClear.Location = New System.Drawing.Point(273, 343)
+        Me.btClear.Font = New System.Drawing.Font("TH SarabunPSK", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.btClear.Location = New System.Drawing.Point(354, 262)
         Me.btClear.Name = "btClear"
         Me.btClear.Size = New System.Drawing.Size(122, 57)
         Me.btClear.TabIndex = 1
@@ -71,10 +74,10 @@ Partial Class Form1
         '
         'btExit
         '
-        Me.btExit.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.btExit.Location = New System.Drawing.Point(463, 343)
+        Me.btExit.Font = New System.Drawing.Font("TH SarabunPSK", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.btExit.Location = New System.Drawing.Point(167, 346)
         Me.btExit.Name = "btExit"
-        Me.btExit.Size = New System.Drawing.Size(127, 57)
+        Me.btExit.Size = New System.Drawing.Size(309, 57)
         Me.btExit.TabIndex = 1
         Me.btExit.Text = "จบการทำงาน"
         Me.btExit.UseVisualStyleBackColor = True
@@ -82,10 +85,10 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label2.Font = New System.Drawing.Font("Showcard Gothic", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label2.Location = New System.Drawing.Point(107, 176)
+        Me.Label2.Font = New System.Drawing.Font("TH SarabunPSK", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.Label2.Location = New System.Drawing.Point(97, 160)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(179, 63)
+        Me.Label2.Size = New System.Drawing.Size(199, 63)
         Me.Label2.TabIndex = 0
         Me.Label2.Text = "ใส่ตัวเลข"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.TopCenter
@@ -95,6 +98,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(701, 494)
+        Me.ControlBox = False
         Me.Controls.Add(Me.tbNum)
         Me.Controls.Add(Me.btExit)
         Me.Controls.Add(Me.btClear)
