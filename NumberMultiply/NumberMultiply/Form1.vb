@@ -23,7 +23,15 @@
     End Sub
 
     Private Sub btExit_Click(sender As Object, e As EventArgs) Handles btExit.Click
-
+        Dim bt_Exit As MsgBoxResult
+        bt_Exit = MsgBox("จบการทำงานใช่หรือไม่ ?", MsgBoxStyle.YesNo, "จบการทำงาน")
+        If bt_Exit = MsgBoxResult.Yes Then
+            MsgBox("เลิกการทำงาน.....", MsgBoxStyle.Exclamation, "จบการทำงาน")
+            Application.Exit()
+        Else
+            bt_Exit = MsgBoxResult.No
+            tbNum.Focus()
+        End If
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
