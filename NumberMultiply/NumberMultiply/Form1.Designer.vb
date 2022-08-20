@@ -43,13 +43,14 @@ Partial Class Form1
         '
         'btOk
         '
+        Me.btOk.BackColor = System.Drawing.SystemColors.ActiveBorder
         Me.btOk.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btOk.Location = New System.Drawing.Point(167, 262)
         Me.btOk.Name = "btOk"
         Me.btOk.Size = New System.Drawing.Size(120, 57)
         Me.btOk.TabIndex = 1
         Me.btOk.Text = "ตกลง"
-        Me.btOk.UseVisualStyleBackColor = True
+        Me.btOk.UseVisualStyleBackColor = False
         '
         'tbNum
         '
@@ -64,23 +65,25 @@ Partial Class Form1
         '
         'btClear
         '
+        Me.btClear.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btClear.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btClear.Location = New System.Drawing.Point(354, 262)
         Me.btClear.Name = "btClear"
         Me.btClear.Size = New System.Drawing.Size(122, 57)
         Me.btClear.TabIndex = 1
         Me.btClear.Text = "ยกเลิก"
-        Me.btClear.UseVisualStyleBackColor = True
+        Me.btClear.UseVisualStyleBackColor = False
         '
         'btExit
         '
+        Me.btExit.BackColor = System.Drawing.SystemColors.ControlLight
         Me.btExit.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btExit.Location = New System.Drawing.Point(167, 346)
         Me.btExit.Name = "btExit"
         Me.btExit.Size = New System.Drawing.Size(309, 57)
         Me.btExit.TabIndex = 1
         Me.btExit.Text = "จบการทำงาน"
-        Me.btExit.UseVisualStyleBackColor = True
+        Me.btExit.UseVisualStyleBackColor = False
         '
         'Label2
         '
