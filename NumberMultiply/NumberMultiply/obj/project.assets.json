@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JP\\.nuget\\packages\\": {}
+    "C:\\Users\\iigluayy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+      "projectUniqueName": "E:\\Users\\iigluayy\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
       "projectName": "NumberMultiply",
-      "projectPath": "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
-      "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
-      "outputPath": "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
+      "projectPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+      "packagesPath": "C:\\Users\\iigluayy\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iigluayy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
