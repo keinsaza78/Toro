@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {}
+    "E:\\งาน\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {
+    "E:\\งาน\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+        "projectUniqueName": "E:\\งาน\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
         "projectName": "NumberMultiply",
-        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
+        "projectPath": "E:\\งาน\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+        "packagesPath": "C:\\Users\\GRX\\.nuget\\packages\\",
+        "outputPath": "E:\\งาน\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\GRX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows7.0"
