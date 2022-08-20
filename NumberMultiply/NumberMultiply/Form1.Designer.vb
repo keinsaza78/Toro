@@ -33,7 +33,7 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label1.Font = New System.Drawing.Font("TH SarabunPSK", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label1.Location = New System.Drawing.Point(138, 29)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(367, 100)
@@ -43,7 +43,7 @@ Partial Class Form1
         '
         'btOk
         '
-        Me.btOk.Font = New System.Drawing.Font("TH SarabunPSK", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.btOk.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btOk.Location = New System.Drawing.Point(167, 262)
         Me.btOk.Name = "btOk"
         Me.btOk.Size = New System.Drawing.Size(120, 57)
@@ -54,7 +54,7 @@ Partial Class Form1
         'tbNum
         '
         Me.tbNum.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.tbNum.Font = New System.Drawing.Font("TH SarabunPSK", 28.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.tbNum.Font = New System.Drawing.Font("Microsoft Sans Serif", 28.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.tbNum.Location = New System.Drawing.Point(339, 160)
         Me.tbNum.Multiline = True
         Me.tbNum.Name = "tbNum"
@@ -64,7 +64,7 @@ Partial Class Form1
         '
         'btClear
         '
-        Me.btClear.Font = New System.Drawing.Font("TH SarabunPSK", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.btClear.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btClear.Location = New System.Drawing.Point(354, 262)
         Me.btClear.Name = "btClear"
         Me.btClear.Size = New System.Drawing.Size(122, 57)
@@ -74,7 +74,7 @@ Partial Class Form1
         '
         'btExit
         '
-        Me.btExit.Font = New System.Drawing.Font("TH SarabunPSK", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.btExit.Font = New System.Drawing.Font("Microsoft Sans Serif", 22.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.btExit.Location = New System.Drawing.Point(167, 346)
         Me.btExit.Name = "btExit"
         Me.btExit.Size = New System.Drawing.Size(309, 57)
@@ -85,7 +85,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label2.Font = New System.Drawing.Font("TH SarabunPSK", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 36.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label2.Location = New System.Drawing.Point(97, 160)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(199, 63)
