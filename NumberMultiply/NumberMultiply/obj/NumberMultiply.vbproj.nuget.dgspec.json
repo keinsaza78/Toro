@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ป.ตรี\\VB ม่วง\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {}
+    "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {}
   },
   "projects": {
-    "D:\\ป.ตรี\\VB ม่วง\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {
+    "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ป.ตรี\\VB ม่วง\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
         "projectName": "NumberMultiply",
-        "projectPath": "D:\\ป.ตรี\\VB ม่วง\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\ป.ตรี\\VB ม่วง\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
