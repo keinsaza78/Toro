@@ -29,4 +29,9 @@
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
+
+    Private Sub btClear_Click(sender As Object, e As EventArgs) Handles btClear.Click
+        tbNum.Text = ""
+        tbNum.Focus()
+    End Sub
 End Class

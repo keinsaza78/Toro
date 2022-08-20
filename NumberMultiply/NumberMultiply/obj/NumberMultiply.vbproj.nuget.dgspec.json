@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {}
+    "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {
+    "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+        "projectUniqueName": "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
         "projectName": "NumberMultiply",
-        "projectPath": "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
-        "packagesPath": "C:\\Users\\PHATCHARAPHON_21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PHATCHARAPHON_21\\Documents\\GitHub\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
+        "projectPath": "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\NumberMultiply.vbproj",
+        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
+        "outputPath": "D:\\source_code\\New folder (2)\\Toro\\NumberMultiply\\NumberMultiply\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\PHATCHARAPHON_21\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
