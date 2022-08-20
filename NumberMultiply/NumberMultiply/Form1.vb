@@ -21,4 +21,8 @@
 
         End If 'check blank error
     End Sub
+
+    Private Sub btExit_Click(sender As Object, e As EventArgs) Handles btExit.Click
+
+    End Sub
 End Class
